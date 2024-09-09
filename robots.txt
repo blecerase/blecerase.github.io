@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://blecerase.github.io/sitemap.html.gz
+Sitemap: https://blecerase.github.io/app/sitemap.html.gz
+Sitemap: https://blecerase.github.io/assets/sitemap.html.gz
+Sitemap: https://blecerase.github.io/css/sitemap.html.gz
+Sitemap: https://blecerase.github.io/includes/sitemap.html.gz
+Sitemap: https://blecerase.github.io/item/sitemap.html.gz
+Sitemap: https://blecerase.github.io/src/sitemap.html.gz
